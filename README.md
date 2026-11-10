@@ -1,6 +1,6 @@
 # lead-triage-agent
 
-An AI agent for inbound B2B leads. It takes a lead (name, email, company, website, message), checks your CRM for duplicates, reads up to three public pages of the company's website, scores the lead against an ideal-customer profile, drafts a reply, and proposes three CRM writes: create the contact, add a note with the score summary, and create a follow-up task "Reply to <name>" due the next business day. A human approves, edits or rejects the plan. Only then does the agent write to Less Annoying CRM, through the [lacrm-mcp](https://github.com/northkeellabs/lacrm-mcp) MCP server (a separate Northkeel Labs project).
+An AI agent for inbound B2B leads. It takes a lead (name, email, company, website, message), checks your CRM for duplicates, reads up to three public pages of the company's website, scores the lead against an ideal-customer profile, drafts a reply, and proposes three CRM writes: create the contact, add a note with the score summary, and create a follow-up task `Reply to <name>` due the next business day. A human approves, edits or rejects the plan. Only then does the agent write to Less Annoying CRM, through the [lacrm-mcp](https://github.com/northkeellabs/lacrm-mcp) MCP server (a separate Northkeel Labs project).
 
 It runs free on a local model (Ollama, default `qwen3:8b`). It never sends email; it only drafts.
 
