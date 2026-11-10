@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "cold",
+  "lead": {
+    "name": "Robert Hayes",
+    "email": "r.hayes@atlas-bank-demo.example",
+    "company": "Atlas Bank",
+    "website": "https://atlas-bank-demo.example",
+    "message": "Atlas Bank is issuing an RFP for staff augmentation: 20 onsite Java developers for 24/7 support of our core banking platform for 3 years. Please confirm interest and send rate cards for all seniority levels.",
+    "source": "website-form"
+  }
+}

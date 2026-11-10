@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "cold",
+  "lead": {
+    "name": "Nina Gomez",
+    "email": "nina.gomez@mail-demo.example",
+    "company": "Self",
+    "website": null,
+    "message": "Hello, I'm a recent computer-science graduate looking for an internship or junior role in AI. I've attached my CV. Are you hiring?",
+    "source": "website-form"
+  }
+}

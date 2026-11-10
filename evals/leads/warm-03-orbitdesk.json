@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "warm",
+  "lead": {
+    "name": "Tom Bennett",
+    "email": "tom@orbitdesk-demo.example",
+    "company": "Orbitdesk",
+    "website": "https://orbitdesk-demo.example",
+    "message": "We like the idea of an MCP server for Orbitdesk so customers can use AI assistants with their inbox. Probably a project for next year though; budget is not set and I'd need to convince our CEO.",
+    "source": "website-form"
+  }
+}

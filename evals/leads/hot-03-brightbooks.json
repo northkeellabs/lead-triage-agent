@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "hot",
+  "lead": {
+    "name": "Sarah Okafor",
+    "email": "sarah@brightbooks-demo.example",
+    "company": "Brightbooks Accounting",
+    "website": "https://brightbooks-demo.example",
+    "message": "We are a 25-person bookkeeping firm in the UK. Our team spends hours every week keying supplier invoices and receipts from email into Xero for MTD clients. We want an automation that extracts the data, codes it, and stages it in Xero for review. We can spend around GBP 8-12k and would like to start within two weeks, before the next VAT quarter. I'm the managing partner.",
+    "source": "website-form"
+  }
+}

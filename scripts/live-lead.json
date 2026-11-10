@@ -1,0 +1,11 @@
+{
+  "fictional": true,
+  "lead": {
+    "name": "Priya Demo",
+    "email": "priya.demo@northwind-tiles-demo.example",
+    "company": "Northwind Tiles (Demo)",
+    "website": "https://northwind-tiles-demo.example",
+    "source": "website-form",
+    "message": "Hi, I'm operations director at Northwind Tiles (45 staff). Our trade customers email purchase orders as PDFs and our team re-types them into our ordering portal. We'd like an AI agent that reads the POs, matches products through our trade API and drafts the orders for staff approval. Budget around GBP 10k, hoping to start in January."
+  }
+}
