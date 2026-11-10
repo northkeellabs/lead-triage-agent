@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "cold",
+  "lead": {
+    "name": "Rosie Clarke",
+    "email": "rosie@rosies-bakery-demo.example",
+    "company": "Rosie's Bakery",
+    "website": "https://rosies-bakery-demo.example",
+    "message": "Hello! I own a small bakery and need a new website with online cake orders and someone to run our Instagram. What would that cost?",
+    "source": "website-form"
+  }
+}

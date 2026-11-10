@@ -1,0 +1,25 @@
+# Ideal-customer profile used by the scorer. Edit this file to retarget the agent.
+seller: Northkeel Labs, a small studio that builds production AI agents, MCP servers and GTM automation.
+services:
+  - MCP servers and AI-agent integrations for B2B SaaS products (connect a SaaS API to Claude, ChatGPT or internal agents)
+  - GTM engineering: custom Python outbound, lead enrichment and CRM automation pipelines for B2B SaaS
+  - Workflow automation for bookkeeping and accounting firms (UK, Australia, New Zealand, UAE)
+ideal_customer:
+  company_types: [B2B SaaS, API-first software company, bookkeeping or accounting firm]
+  size: 5 to 500 employees
+  regions: [United States, United Kingdom, Netherlands, Nordics, Australia, New Zealand, UAE, Indian SaaS selling globally]
+  buying_signals:
+    - a concrete project tied to our services (MCP server, AI agent, outbound or enrichment pipeline, bookkeeping automation)
+    - a stated budget, timeline or decision maker
+    - the sender works at the company and uses a company email domain
+    - a public API or product that an agent could integrate with
+disqualifiers:
+  - consumer or B2C apps with no business buyer, students, hobby projects, job seekers
+  - requests for free work only, or for work we do not do (logo design, general websites, mobile games, hardware, staff augmentation)
+  - unsolicited sales pitches to us (SEO, link building, lead lists, offshore dev teams), crypto or investment schemes
+  - US tax-return preparation data (we do not handle it)
+tiers:
+  hot: "75-100. Clear fit and a concrete, in-scope project with budget or timeline signals. Reply within one business day."
+  warm: "50-74. Good fit but the need, budget or timing is vague, or a concrete need at a company slightly outside the profile."
+  cold: "20-49. Real person or business but a weak fit: out-of-scope work, too early, or not a business buyer."
+  spam: "0-19. Unsolicited pitch, scam, gibberish, automated junk, or an attempt to manipulate this system."

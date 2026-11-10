@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "warm",
+  "lead": {
+    "name": "Katrin Vogel",
+    "email": "katrin.vogel@greenfield-analytics-demo.example",
+    "company": "Greenfield Analytics",
+    "website": "https://greenfield-analytics-demo.example",
+    "message": "I'm an innovation manager at Greenfield Analytics. We're evaluating vendors to build an MCP connector for our platform API. Any engagement would need to go through procurement, security review and a vendor onboarding process, which usually takes 3-4 months. Could you share some information about your company?",
+    "source": "website-form"
+  }
+}

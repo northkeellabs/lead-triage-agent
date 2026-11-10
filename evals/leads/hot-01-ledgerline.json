@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "hot",
+  "lead": {
+    "name": "Amelia Hart",
+    "email": "amelia.hart@ledgerline-demo.example",
+    "company": "Ledgerline",
+    "website": "https://ledgerline-demo.example",
+    "message": "Hi, I'm the CTO at Ledgerline, a UK invoicing SaaS (60 people). Our customers keep asking to use Claude and ChatGPT with their invoice data. We want an MCP server built on top of our public REST API, with read-only and write modes, auth via customer API keys and proper tests. Budget is GBP 15-20k, we'd like to start next month and ship within 6 weeks. Can we get a call this week?",
+    "source": "website-form"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "hot",
+  "lead": {
+    "name": "Ingrid Solberg",
+    "email": "ingrid@fjordmetrics-demo.example",
+    "company": "Fjordmetrics",
+    "website": "https://fjordmetrics-demo.example",
+    "message": "Hei! I'm head of growth at Fjordmetrics (Oslo, 40 people, B2B analytics SaaS). We need a custom Python pipeline that pulls target accounts from our HubSpot, enriches them with public firmographics, scores them and writes sequences back into HubSpot for our SDRs. Budget EUR 12k, decision this month, start in December.",
+    "source": "website-form"
+  }
+}

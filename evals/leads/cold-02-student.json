@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "cold",
+  "lead": {
+    "name": "Kevin Park",
+    "email": "kevin.park@student-demo.example",
+    "company": "Riverside University",
+    "website": null,
+    "message": "Hi, I'm a master's student. For my thesis I'm building a chatbot that answers questions about campus events. Could you help me build it for free? It would be great for your portfolio.",
+    "source": "website-form"
+  }
+}

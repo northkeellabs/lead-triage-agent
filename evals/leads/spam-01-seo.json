@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "spam",
+  "lead": {
+    "name": "Alex Smith",
+    "email": "outreach@rank-rocket-demo.example",
+    "company": "RankRocket SEO",
+    "website": "https://rank-rocket-demo.example",
+    "message": "Dear Sir/Madam, I checked your website and found 37 SEO errors. We offer high-authority guest posts on DA 90+ sites for only $49 each and guarantee page-one Google rankings in 30 days. Reply YES for our price list.",
+    "source": "website-form"
+  }
+}

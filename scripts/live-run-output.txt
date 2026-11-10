@@ -1,0 +1,50 @@
+======================================================================
+run_id: northwind-tiles-demo-ca169866
+status: pending_approval
+score: 85/100  tier: hot
+  reason: Company is a B2B SaaS or API-first software company (B2B ordering portal and public trade API)
+  reason: Clear project tied to AI agent integration with their trade API
+  reason: Budget stated (GBP 10k) and timeline mentioned (start in January)
+  reason: Company size fits (45 employees)
+  reason: Company is based in the UK (target region)
+crm: no existing contact found
+pages fetched: https://northwind-tiles-demo.example/, https://northwind-tiles-demo.example/about
+draft reply (NOT sent):
+  Subject: Re: AI Agent for Purchase Order Automation
+  Hi Priya, thanks for reaching out. It sounds like you're looking for an AI agent that automates purchase order processing by integrating with your trade API. Would you be available for a 30-minute call [time option 1] or [time option 2] next week to discuss further?
+action plan:
+  - action=create_contact, name=Priya Demo, email=priya.demo@northwind-tiles-demo.example, company_name=Northwind Tiles (Demo), background_info=Inbound lead via website-form.
+  - action=add_note, contact_id=None, note=Lead triage (automated score, human-approved): 85/100, tier hot. Source: website-form. Reasons: Company is a B2B SaaS or API-first software company (B2B ordering portal and public trade API); Clear project tied to AI agent integration with their trade API; Budget stated (GBP 10k) and timeline mentioned (start in January); Company size fits (45 employees); Company is based in the UK (target region). Red flags: none. A draft reply was prepared for human review; nothing was sent.
+  - action=create_task, contact_id=None, name=Reply to Priya Demo, due_date=2026-11-11, description=Tier hot (85/100). Review the draft reply and send it yourself.
+timings (s): validate=0.0, dedupe=4.394, research=0.014, score=2.035, draft=1.093, plan=0.0
+pending: approve later with `triage approve northwind-tiles-demo-ca169866 --decision approve|reject`
+----------------------------------------------------------------------
+run_id: northwind-tiles-demo-ca169866
+status: executed
+score: 85/100  tier: hot
+  reason: Company is a B2B SaaS or API-first software company (B2B ordering portal and public trade API)
+  reason: Clear project tied to AI agent integration with their trade API
+  reason: Budget stated (GBP 10k) and timeline mentioned (start in January)
+  reason: Company size fits (45 employees)
+  reason: Company is based in the UK (target region)
+crm: no existing contact found
+pages fetched: https://northwind-tiles-demo.example/, https://northwind-tiles-demo.example/about
+draft reply (NOT sent):
+  Subject: Re: AI Agent for Purchase Order Automation
+  Hi Priya, thanks for reaching out. It sounds like you're looking for an AI agent that automates purchase order processing by integrating with your trade API. Would you be available for a 30-minute call [time option 1] or [time option 2] next week to discuss further?
+action plan:
+  - action=create_contact, name=Priya Demo, email=priya.demo@northwind-tiles-demo.example, company_name=Northwind Tiles (Demo), background_info=Inbound lead via website-form.
+  - action=add_note, contact_id=None, note=Lead triage (automated score, human-approved): 85/100, tier hot. Source: website-form. Reasons: Company is a B2B SaaS or API-first software company (B2B ordering portal and public trade API); Clear project tied to AI agent integration with their trade API; Budget stated (GBP 10k) and timeline mentioned (start in January); Company size fits (45 employees); Company is based in the UK (target region). Red flags: none. A draft reply was prepared for human review; nothing was sent.
+  - action=create_task, contact_id=None, name=Reply to Priya Demo, due_date=2026-11-11, description=Tier hot (85/100). Review the draft reply and send it yourself.
+execution:
+  - {'action': 'create_contact', 'ok': True, 'contact_id': '4137396061547251604025953244538'}
+  - {'action': 'add_note', 'ok': True, 'note_id': '4137396062746289968817073532929'}
+  - {'action': 'create_task', 'ok': True, 'task_id': '4137396063924575746525272234460'}
+timings (s): validate=0.0, dedupe=4.394, research=0.014, score=2.035, draft=1.093, plan=0.0, execute=3.491, report=0.0
+----------------------------------------------------------------------
+Independent verification (read-only LACRM search, 2026-11-10):
+  contact 4137396061547251604025953244538 Priya Demo <priya.demo@northwind-tiles-demo.example>, company Northwind Tiles (Demo): found (1 match)
+  notes on contact: 1 (note 4137396062746289968817073532929, text matches the plan)
+  tasks on contact: 1 (task 4137396063924575746525272234460 "Reply to Priya Demo", due 2026-11-11)
+  side effect: LACRM auto-created company record 4137396061514969801896961850035 "Northwind Tiles (Demo)" because create_contact passes a company name
+All people and companies above are fictional.

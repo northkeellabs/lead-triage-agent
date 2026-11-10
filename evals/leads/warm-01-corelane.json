@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "warm",
+  "lead": {
+    "name": "Jenna Ruiz",
+    "email": "jenna@corelane-demo.example",
+    "company": "Corelane",
+    "website": "https://corelane-demo.example",
+    "message": "Hi there, we're a small B2B SaaS and leadership keeps talking about 'doing something with AI agents'. Not sure yet what that would be for us. Do you have examples or a rough idea of costs? No timeline yet.",
+    "source": "website-form"
+  }
+}

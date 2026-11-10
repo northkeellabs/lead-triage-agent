@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "hot",
+  "lead": {
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@paysprout-demo.example",
+    "company": "Paysprout",
+    "website": "https://paysprout-demo.example",
+    "message": "We're Paysprout, an AP automation SaaS (150 staff) selling into the US. We want a GTM engineering partner to build and run our outbound data pipeline: account lists from our ICP, enrichment, intent signals and CRM sync. We're looking at a monthly retainer of about USD 8-10k starting in January. I'm VP Revenue and can sign.",
+    "source": "website-form"
+  }
+}

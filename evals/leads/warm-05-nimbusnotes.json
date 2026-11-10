@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "warm",
+  "lead": {
+    "name": "Ava Chen",
+    "email": "ava@nimbusnotes-demo.example",
+    "company": "Nimbus Notes",
+    "website": "https://nimbusnotes-demo.example",
+    "message": "Founder of Nimbus Notes, a 4-person seed-stage B2B startup. We'd love an MCP server for our notes API so sales reps can query meetings from Claude. Budget is small, maybe a few thousand dollars, and we'd want to start in 2-3 months after our next release.",
+    "source": "website-form"
+  }
+}

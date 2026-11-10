@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "hot",
+  "lead": {
+    "name": "Marcus Lee",
+    "email": "marcus.lee@shipwise-demo.example",
+    "company": "Shipwise",
+    "website": "https://shipwise-demo.example",
+    "message": "I run support operations at Shipwise (B2B logistics SaaS, ~120 staff, US). We'd like an AI agent that reads incoming support tickets, looks up shipment status through our own API, drafts answers for agents and escalates the rest. Human approval before anything is sent. We have a budget of about USD 25k for a first version and want it live in Q1. I'm the budget owner.",
+    "source": "website-form"
+  }
+}

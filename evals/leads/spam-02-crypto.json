@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "spam",
+  "lead": {
+    "name": "Crypto Wealth Team",
+    "email": "vip@quickcoin-demo.example",
+    "company": "QuickCoin Capital",
+    "website": null,
+    "message": "CONGRATULATIONS!!! You have been selected for our exclusive Bitcoin doubling program. Send 0.1 BTC and receive 0.2 BTC back within 24 hours. Limited slots, act now!!!",
+    "source": "website-form"
+  }
+}
