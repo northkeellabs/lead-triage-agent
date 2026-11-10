@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "warm",
+  "lead": {
+    "name": "Liam Walsh",
+    "email": "liam@tallyhub-demo.example",
+    "company": "Tallyhub Bookkeeping",
+    "website": "https://tallyhub-demo.example",
+    "message": "G'day, we're an 8-person bookkeeping practice in Australia. Heard automation can save time on data entry. What sort of things could you do for a firm like ours? Just exploring for now.",
+    "source": "website-form"
+  }
+}

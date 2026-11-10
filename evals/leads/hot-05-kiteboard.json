@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "kind": "normal",
+  "expected_tier": "hot",
+  "lead": {
+    "name": "Daan Visser",
+    "email": "daan.visser@kiteboard-hr-demo.example",
+    "company": "Kiteboard HR",
+    "website": "https://kiteboard-hr-demo.example",
+    "message": "Head of Product at Kiteboard HR here. We want to ship an official MCP server so our customers can connect Kiteboard to Claude and internal agents, plus a reference agent for onboarding workflows. Our API is public and documented. I own the decision and have budget approved for this quarter; we need it in about 6 weeks. Could you send availability for a scoping call?",
+    "source": "website-form"
+  }
+}
