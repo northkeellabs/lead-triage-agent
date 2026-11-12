@@ -6,6 +6,14 @@ It runs free on a local model (Ollama, default `qwen3:8b`). It never sends email
 
 Built by Northkeel Labs as a public, working example. All demo leads and companies in this repository are fictional.
 
+**Video walkthrough (62 s, voice + captions):** a demo lead researched, scored and drafted, then written to the CRM only after a person approves, plus the eval results. Shown from a recorded real run on a local model. GitHub starts videos muted: click the speaker icon in the player to hear the voiceover.
+
+
+
+https://github.com/user-attachments/assets/271630cc-034a-42a6-a89d-f83ab7949c0d
+
+
+
 ## How it works
 
 ```mermaid
