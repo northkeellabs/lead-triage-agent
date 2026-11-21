@@ -146,3 +146,7 @@ Caveats: the eval set is small and was written by the same team that wrote the p
 ## Disclaimer
 
 Independent project. Not affiliated with, endorsed by or sponsored by Less Annoying CRM. All leads, people and companies in the eval set and examples are fictional; any resemblance to real ones is coincidental. Provided as-is under the MIT License.
+
+---
+
+Built by [Northkeel Labs](https://northkeellabs.com): AI agents and MCP servers that run inside your own systems.
